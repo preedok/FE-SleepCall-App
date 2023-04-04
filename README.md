@@ -98,7 +98,7 @@ REACT_APP_BACKEND_URL = [BACKEND_URL]
 
   <tr>
     <td><img width="350px" src="./documentation/login.png"  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src="./documentation/Register.png"  border="0" border="0" alt="4" /></td>
+     <td><img width="350px" src="./documentation/register.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
     <td>Login</td>
