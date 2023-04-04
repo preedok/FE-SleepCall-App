@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Sleep Call App</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/FE-SleepCall-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/preedok/FE-SleepCall-App"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://fe-sleepcall-app.vercel.app/">View Demo</a>
     ·
@@ -130,11 +130,11 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend WhatsApp`](https://github.com/Iqbalapredo/BE-WhataApp)
+:rocket: [`Backend Sleep Call`](https://github.com/preedok/BE-WhataApp)
 
-:rocket: [`Frontend WhatsApp`](https://github.com/Iqbalapredo/FE-SleepCall-App)
+:rocket: [`Frontend Sleep Call`](https://github.com/preedok/FE-SleepCall-App)
 
-:rocket: [`Demo WhatsApp`](https://fe-sleepcall-app.vercel.app)
+:rocket: [`Demo Sleep Call`](https://fe-sleepcall-app.vercel.app)
 
 <!-- CONTACT -->
 
@@ -142,4 +142,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/FE-SleepCall-App](https://github.com/Iqbalapredo/FE-SleepCall-App)
+Project Link: [https://github.com/preedok/FE-SleepCall-App](https://github.com/preedok/FE-SleepCall-App)
