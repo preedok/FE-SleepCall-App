@@ -35,7 +35,7 @@
 
 ## About The Project
 
-SleepCall App is realtime chat application, where user can register and login to their account and connected to another user. User can edit photo and bio in their profile. This app made by React JS and Socket.IO, and this app use Rest API from [WhatsApprest](https://be-whataapp-production.up.railway.app/)
+SleepCall App is realtime chat application, where user can register and login to their account and connected to another user. User can edit photo and bio in their profile. This app made by React JS and Socket.IO, and this app use Rest API from [Sleep Call App](https://be-whataapp-production.up.railway.app/)
 
 <!-- GETTING STARTED -->
 
