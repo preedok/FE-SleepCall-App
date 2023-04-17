@@ -105,7 +105,7 @@ REACT_APP_BACKEND_URL = [BACKEND_URL]
      <td>Register</td>
   </tr>
    <tr>
-    <td><img width="350px" src="./documentation/detailSender.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./documentation/update.png"  border="0" border="0" alt="3" /> </td>
      <td><img width="350px" src="./documentation/update.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
